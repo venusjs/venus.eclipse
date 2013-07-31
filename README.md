@@ -3,7 +3,7 @@ venus.eclipse
 
 Eclipse plugin for Venus.js
 
-Whenever you save a JavaScript test file with the extension "spec.js", Eclipse will run the unit test in the Termainal using Venus
+Whenever you save a JavaScript test file with the extension "spec.js", Eclipse will run the unit test using Venus
 
 #### Setup
 
